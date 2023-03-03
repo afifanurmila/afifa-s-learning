@@ -1,0 +1,6 @@
+Rencana Belajar 
+- Menyelesaikan dasar ilmu statistika seperti metode statistika, statistika nonparametrik, analisis data eksploratif.
+- Menyelesaikan ilmu-ilmu numeric and logical seperti aljabar linier elementer, pengantar probabilitas, kalkulus I, kalkulus II
+- Menyelesaikan dasar pemrograman seperti algoritma pemrograman, basis data, mysql
+- Menyelesaikan studi kasus tentang materi tersebut. 
+- Membuat mini project tentang bab-bab di atas.
